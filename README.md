@@ -76,23 +76,4 @@ The `.env.example` file documents how to set the Perplexity API key and select t
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-[1](https://coassemble.com/ai-create)
-[2](https://www.perplexity.ai/hub/blog/introducing-pplx-api)
-[3](https://apidog.com/blog/perplexity-ai-api/)
-[4](https://docs.litellm.ai/docs/providers/perplexity)
-[5](https://docs.perplexity.ai)
-[6](https://github.com/hex/llm-perplexity)
-[7](https://docs.anythingllm.com/setup/llm-configuration/cloud/perplexity-ai)
-[8](https://www.datastudios.org/post/perplexity-ai-all-available-models-modes-and-how-they-differ-in-late-2025)
-[9](https://www.reddit.com/r/LocalLLaMA/comments/1dj7mkq/building_an_open_source_perplexity_ai_with_open/)
-[10](https://www.datastudios.org/post/all-perplexity-models-available-in-2025-complete-list-with-sonar-family-gpt-5-claude-gemini-and)
-[11](https://minicoursegenerator.com)
-[12](https://zuplo.com/learning-center/perplexity-api)
-[13](https://www.perplexity.ai/help-center/en/articles/10354919-what-advanced-ai-models-are-included-in-my-subscription)
-[14](https://www.cognispark.ai/guide/best-ai-course-creators/)
-[15](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
-[16](https://courseai.com)
-[17](https://www.reddit.com/r/perplexity_ai/comments/1871km4/hey_dear_reddit_pplxapi_is_coming_out_of_beta_and/)
-[18](https://zerlo.net/en/blog/is-perplexity-using-its-own-large-language-model)
-[19](https://www.coursebox.ai)
-[20](https://www.reddit.com/r/perplexity_ai/comments/1jbky3f/ridiculous_api_cost_of_perplexity_ai/)
+
